@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Babar-JUtt.
+- 👀 I’m interested in Both Front-End and Back-End.
+- 🌱 I’m currently learning JavaScript & Python.
